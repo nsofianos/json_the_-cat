@@ -1,0 +1,23 @@
+{
+  "name": "json_the_-cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsofianos/json_the_-cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsofianos/json_the_-cat/issues"
+  },
+  "homepage": "https://github.com/nsofianos/json_the_-cat#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
